@@ -1,0 +1,7 @@
+.idea
+main
+emoticon
+.DS_Store
+*.logs
+vendor/
+uploads/

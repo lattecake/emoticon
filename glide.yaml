@@ -1,0 +1,6 @@
+package: github.com/lattecake/emoticon
+import:
+- package: golang.org/x/time
+  subpackages:
+  - rate
+  repo: https://github.com/golang/time
